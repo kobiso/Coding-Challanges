@@ -10,6 +10,7 @@ Code of mine for coding practices and challenges.
 5. [Lesson5. PassingCars](https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/start/) in Python
 
 # Programmers
-1. [Level2. productMatrix](https://programmers.co.kr/learn/challenge_codes/140) in Python
-2. [Level3. nlcm](https://programmers.co.kr/learn/challenge_codes/152) in C++
-3. [Level4. findLargestSquare](https://programmers.co.kr/learn/challenge_codes/187) in C++
+1. [Level2. Matrix Multiplication](https://programmers.co.kr/learn/challenge_codes/140) in Python
+2. [Level3. N Least Common Multiple](https://programmers.co.kr/learn/challenge_codes/152) in C++
+3. [Level4. Find Largest Square](https://programmers.co.kr/learn/challenge_codes/187) in C++
+4. [Level4. Expressions of a Number](https://programmers.co.kr/learn/challenge_codes/156) in C++
