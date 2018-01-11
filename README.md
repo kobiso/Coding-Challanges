@@ -15,3 +15,8 @@ Code of mine for coding practices and challenges.
 3. [Level4. Find Largest Square](https://programmers.co.kr/learn/challenge_codes/187) in C++
 4. [Level4. Expressions of a Number](https://programmers.co.kr/learn/challenge_codes/156) in C++
 5. [Level5. Number Expression with 1,2,4](https://programmers.co.kr/learn/challenge_codes/158) in C++
+6. [Level5. Set Align](https://programmers.co.kr/learn/challenge_codes/159) in C++
+
+# CtCI (Cracking the Coding Interview)
+0-1. IsDouble in Python
+1-1. IsUnique in Python
