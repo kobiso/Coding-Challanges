@@ -18,5 +18,5 @@ Code of mine for coding practices and challenges.
 6. [Level5. Set Align](https://programmers.co.kr/learn/challenge_codes/159) in C++
 
 # CtCI (Cracking the Coding Interview)
-0-1. IsDouble in Python
-1-1. IsUnique in Python
+1. 0-1. IsDouble in Python
+2. 1-1. IsUnique in Python
