@@ -18,9 +18,9 @@ Code of mine for coding practices and challenges.
 6. [Level5. Set Align](https://programmers.co.kr/learn/challenge_codes/159) in C++
 
 # HackerRank
-DS. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) in Python3
-DS. [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) in Python3
-Alg. [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) in Python3
+- DS. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) in Python3
+- DS. [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) in Python3
+- Alg. [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) in Python3
 
 # CtCI (Cracking the Coding Interview)
 1. 0-1. IsDouble in Python
