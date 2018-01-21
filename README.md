@@ -20,6 +20,7 @@ Code of mine for coding practices and challenges.
 # HackerRank
 - DS. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) in Python3
 - DS. [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) in Python3
+- DS. [Is This a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem) in Python3
 - Alg. [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) in Python3
 
 # CtCI (Cracking the Coding Interview)
