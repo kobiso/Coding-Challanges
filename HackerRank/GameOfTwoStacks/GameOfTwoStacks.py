@@ -4,15 +4,11 @@ import sys
 
 g = int(input().strip())
 for a0 in range(g):
-    n,m,x = input().strip().split(' ')
-    n,m,x = [int(n),int(m),int(x)]
+    n, m, x = map(int, input().strip().split(' '))
     a = list(map(int, input().strip().split(' ')))
     b = list(map(int, input().strip().split(' ')))
-    # your code goes here
-    
-    sum = 0
-    count = 0
-    max_count =0
+
+    sum, count, max_count = 0, 0, 0
     tempA = []
     
     # Inverse 'a' and 'b' list to use as stack
