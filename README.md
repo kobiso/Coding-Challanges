@@ -21,6 +21,12 @@ Code of mine for coding practices and challenges.
 - DS. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) in Python3
 - DS. [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) in Python3
 - DS. [Is This a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem) in Python3
+- DS. [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) in Python3
+- Alg. [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) in Python3
+- Alg. [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) in Python3
+- Alg. [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem) in Python3
+- Alg. [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) in Python3
+- Alg. [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem) in Python3
 - Alg. [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) in Python3
 
 # CtCI (Cracking the Coding Interview)
