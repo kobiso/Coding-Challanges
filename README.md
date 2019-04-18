@@ -38,6 +38,8 @@ Personal answer code for coding practices and challenges.
 
 # LeetCode
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) in Python3
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) in Python3
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) in Python3
 
 # CtCI (Cracking the Coding Interview)
 1. 0-1. IsDouble in Python
