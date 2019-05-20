@@ -42,6 +42,9 @@ Personal answer code for coding practices and challenges.
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) in Python3
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) in Python3
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) in Python3
+- [15. 3Sum](https://leetcode.com/problems/3sum/) in Python3
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) in Python3
+- [18. 4Sum](https://leetcode.com/problems/4sum/) in Python3
 
 # CtCI (Cracking the Coding Interview)
 1. 0-1. IsDouble in Python
