@@ -46,6 +46,10 @@ Personal answer code for coding practices and challenges.
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) in Python3
 - [18. 4Sum](https://leetcode.com/problems/4sum/) in Python3
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) in Python3
+- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) in Python3
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) in Python3
+- [39. Combination Sum](https://leetcode.com/problems/combination-sum) in Python3
+- [40. Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) in Python3
 
 # CtCI (Cracking the Coding Interview)
 1. 0-1. IsDouble in Python
