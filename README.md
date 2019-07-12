@@ -50,6 +50,7 @@ Personal answer code for coding practices and challenges.
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) in Python3
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum) in Python3
 - [40. Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) in Python3
+- [46. Permutations](https://leetcode.com/problems/permutations/) in Python3
 
 # CtCI (Cracking the Coding Interview)
 1. 0-1. IsDouble in Python
