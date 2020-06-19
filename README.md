@@ -1,6 +1,6 @@
 Coding-Challanges
 =================
-Personal answer code for coding practices and challenges.
+Solutions for coding practices and challenges.
 
 # LeetCode
 (Note: :lock: == Premium)
