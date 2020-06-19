@@ -2,6 +2,28 @@ Coding-Challanges
 =================
 Personal answer code for coding practices and challenges.
 
+# LeetCode
+(Note: :lock: == Premium)
+
+\# | Title | Solution | Difficulty
+-- | -- | -- | --
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./LeetCode/2.Add_Two_Numbers.py) | Medium
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](./LeetCode/3.Longest_Substring_Without_Repeating_Characters.py) | Medium
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./LeetCode/5.Longest_Palindromic_Substring.py) | Medium
+11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](./LeetCode/11.Container_With_Most_Water.py) | Medium
+12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](./LeetCode/12.Integer_to_Roman.py) | Medium
+15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3](./LeetCode/15.3Sum.py) | Medium
+17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./LeetCode/17.Letter_Combinations_of_a_Phone_Number.py) | Medium
+18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](./LeetCode/18.4Sum.py) | Medium
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./LeetCode/19.Remove_Nth_Node_From_End_of_List.py) | Medium
+33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](./LeetCode/33.Search_in_Rotated_Sorted_Array.py) | Medium
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./LeetCode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium
+39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python3](./LeetCode/39.Combination_Sum.py) | Medium
+40 | [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./LeetCode/40.Combination_Sum2.py) | Medium
+46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./LeetCode/46.Permutations.py) | Medium
+436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/explore/interview/card/google/59/array-and-strings/436/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
+
+
 # Codility
 - [Lesson1. Binary Gap](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/) in Python3
 - [Lesson2. CyclicRotation](https://codility.com/programmers/lessons/2-arrays/cyclic_rotation/start/) in Python3
@@ -35,22 +57,6 @@ Personal answer code for coding practices and challenges.
 - [Level4. Expressions of a Number](https://programmers.co.kr/learn/challenge_codes/156) in C++
 - [Level5. Number Expression with 1,2,4](https://programmers.co.kr/learn/challenge_codes/158) in C++
 - [Level5. Set Align](https://programmers.co.kr/learn/challenge_codes/159) in C++
-
-# LeetCode
-- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) in Python3
-- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) in Python3
-- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) in Python3
-- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) in Python3
-- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) in Python3
-- [15. 3Sum](https://leetcode.com/problems/3sum/) in Python3
-- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) in Python3
-- [18. 4Sum](https://leetcode.com/problems/4sum/) in Python3
-- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) in Python3
-- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) in Python3
-- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) in Python3
-- [39. Combination Sum](https://leetcode.com/problems/combination-sum) in Python3
-- [40. Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) in Python3
-- [46. Permutations](https://leetcode.com/problems/permutations/) in Python3
 
 # CtCI (Cracking the Coding Interview)
 1. 0-1. IsDouble in Python
