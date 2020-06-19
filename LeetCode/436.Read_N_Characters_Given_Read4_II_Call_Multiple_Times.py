@@ -29,4 +29,5 @@ class Solution:
         segment_size = len(str_segment)
         buf[:segment_size] = list(str_segment)
         self.pointer += n
+        
         return segment_size
