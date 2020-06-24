@@ -21,7 +21,9 @@ Solutions for coding practices and challenges.
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python3](./LeetCode/39.Combination_Sum.py) | Medium
 40 | [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./LeetCode/40.Combination_Sum2.py) | Medium
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./LeetCode/46.Permutations.py) | Medium
-436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/explore/interview/card/google/59/array-and-strings/436/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
+159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [Python3](./LeetCode/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.py) | Medium
+252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
+436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
 
 
 # Codility
