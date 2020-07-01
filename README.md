@@ -22,9 +22,11 @@ Solutions for coding practices and challenges.
 40 | [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./LeetCode/40.Combination_Sum2.py) | Medium
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./LeetCode/46.Permutations.py) | Medium
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [Python3](./LeetCode/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.py) | Medium
+247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) :lock: | [Python3](./LeetCode/247.Strobogrammatic_Number_2.py) | Easy
 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
 436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) :lock: | [Python3](./LeetCode/489.Robot_Room_Cleaner.py) | Hard
+624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624._Maximum_Distance_in_Arrays.py) | Easy
 
 # Codility
 - [Lesson1. Binary Gap](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/) in Python3
