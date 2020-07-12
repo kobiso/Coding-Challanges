@@ -27,7 +27,8 @@ Solutions for coding practices and challenges.
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
 436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) :lock: | [Python3](./LeetCode/489.Robot_Room_Cleaner.py) | Hard
-624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624._Maximum_Distance_in_Arrays.py) | Easy
+624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624.Maximum_Distance_in_Arrays.py) | Easy
+642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :lock: | [Python3](./LeetCode/642.Design_Search_Autocomplete_System.py) | Hard
 
 # Codility
 - [Lesson1. Binary Gap](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/) in Python3
