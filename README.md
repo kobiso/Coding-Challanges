@@ -24,6 +24,7 @@ Solutions for coding practices and challenges.
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [Python3](./LeetCode/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.py) | Medium
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) :lock: | [Python3](./LeetCode/247.Strobogrammatic_Number_2.py) | Easy
 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
+269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) :lock: | [Python3](./LeetCode/269.Alien_Dictionary.py) | Hard
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
 436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
