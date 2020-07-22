@@ -25,12 +25,14 @@ Solutions for coding practices and challenges.
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) :lock: | [Python3](./LeetCode/247.Strobogrammatic_Number_2.py) | Easy
 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) :lock: | [Python3](./LeetCode/269.Alien_Dictionary.py) | Hard
+307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python3](./LeetCode/307.Range_Sum_Query-Mutable.py) | Medium
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
 436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) :lock: | [Python3](./LeetCode/489.Robot_Room_Cleaner.py) | Hard
 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624.Maximum_Distance_in_Arrays.py) | Easy
 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :lock: | [Python3](./LeetCode/642.Design_Search_Autocomplete_System.py) | Hard
+949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
 
 # Codility
 - [Lesson1. Binary Gap](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/) in Python3
