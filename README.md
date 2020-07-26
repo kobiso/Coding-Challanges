@@ -20,6 +20,7 @@ Solutions for coding practices and challenges.
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./LeetCode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python3](./LeetCode/39.Combination_Sum.py) | Medium
 40 | [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./LeetCode/40.Combination_Sum2.py) | Medium
+42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](./LeetCode/42.Trapping_Rain_Water.py) | Hard
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./LeetCode/46.Permutations.py) | Medium
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [Python3](./LeetCode/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.py) | Medium
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) :lock: | [Python3](./LeetCode/247.Strobogrammatic_Number_2.py) | Easy
