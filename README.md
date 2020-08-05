@@ -27,6 +27,7 @@ Solutions for coding practices and challenges.
 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) :lock: | [Python3](./LeetCode/269.Alien_Dictionary.py) | Hard
 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python3](./LeetCode/307.Range_Sum_Query-Mutable.py) | Medium
+339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [Python3](./LeetCode/339.Nested_List_Weight_Sum.py) | Easy
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) :lock: | [Python3](./LeetCode/410.Split_Array_Largest_Sum.py) | Hard
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
@@ -35,6 +36,7 @@ Solutions for coding practices and challenges.
 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) :lock: | [Python3](./LeetCode/604.Design_Compressed_String_Iterator.py) | Easy
 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624.Maximum_Distance_in_Arrays.py) | Easy
 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :lock: | [Python3](./LeetCode/642.Design_Search_Autocomplete_System.py) | Hard
+833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Python3](./LeetCode/833.Find_And_Replace_in_String.py) | Medium
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
 
 # Codility
