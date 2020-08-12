@@ -37,6 +37,7 @@ Solutions for coding practices and challenges.
 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624.Maximum_Distance_in_Arrays.py) | Easy
 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :lock: | [Python3](./LeetCode/642.Design_Search_Autocomplete_System.py) | Hard
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Python3](./LeetCode/833.Find_And_Replace_in_String.py) | Medium
+716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [Python3](./LeetCode/716.Max_Stack.py) | Easy
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
 
 # Codility
