@@ -40,6 +40,8 @@ Solutions for coding practices and challenges.
 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :lock: | [Python3](./LeetCode/642.Design_Search_Autocomplete_System.py) | Hard
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Python3](./LeetCode/833.Find_And_Replace_in_String.py) | Medium
 716 | [Max Stack](https://leetcode.com/problems/max-stack/) :lock: | [Python3](./LeetCode/716.Max_Stack.py) | Easy
+904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](./LeetCode/904.Fruit_Into_Baskets.py) | Medium
+929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./LeetCode/929.Unique_Email_Addresses.py) | Easy
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
 
 # Codility
