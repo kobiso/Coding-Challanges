@@ -31,6 +31,7 @@ Solutions for coding practices and challenges.
 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python3](./LeetCode/307.Range_Sum_Query-Mutable.py) | Medium
 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [Python3](./LeetCode/339.Nested_List_Weight_Sum.py) | Easy
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
+387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) :lock: | [Python3](./LeetCode/387.First_Unique_Character_in_a_String.py) | Easy
 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) :lock: | [Python3](./LeetCode/410.Split_Array_Largest_Sum.py) | Hard
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
 436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
