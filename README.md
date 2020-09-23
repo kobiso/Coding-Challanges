@@ -5,8 +5,8 @@ Solutions for coding practices and challenges.
 # LeetCode
 (Note: :lock: == Premium)
 
-\# | Title | Solution | Difficulty
--- | -- | -- | --
+\# | Title | Solution | Difficulty | Note
+-- | -- | -- | -- | --
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./LeetCode/2.Add_Two_Numbers.py) | Medium
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](./LeetCode/3.Longest_Substring_Without_Repeating_Characters.py) | Medium
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./LeetCode/5.Longest_Palindromic_Substring.py) | Medium
@@ -17,7 +17,8 @@ Solutions for coding practices and challenges.
 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](./LeetCode/18.4Sum.py) | Medium
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./LeetCode/19.Remove_Nth_Node_From_End_of_List.py) | Medium
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](./LeetCode/33.Search_in_Rotated_Sorted_Array.py) | Medium
-34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./LeetCode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./LeetCode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium | recursive
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./LeetCode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.loop.py) | Medium | loop
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python3](./LeetCode/39.Combination_Sum.py) | Medium
 40 | [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./LeetCode/40.Combination_Sum2.py) | Medium
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](./LeetCode/42.Trapping_Rain_Water.py) | Hard
@@ -44,6 +45,7 @@ Solutions for coding practices and challenges.
 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](./LeetCode/904.Fruit_Into_Baskets.py) | Medium
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./LeetCode/929.Unique_Email_Addresses.py) | Easy
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
+1480 | [Add Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](./LeetCode/1480.Add_Running_Sum_of_1d_Array.py) | Easy
 
 # Codility
 - [Lesson1. Binary Gap](https://codility.com/programmers/lessons/1-iterations/binary_gap/start/) in Python3
