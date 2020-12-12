@@ -47,6 +47,7 @@ Solutions for coding practices and challenges.
 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](./LeetCode/904.Fruit_Into_Baskets.py) | Medium
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./LeetCode/929.Unique_Email_Addresses.py) | Easy
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
+980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Python3](./LeetCode/980.Unique_Paths_III.py) | Hard
 1480 | [Add Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](./LeetCode/1480.Add_Running_Sum_of_1d_Array.py) | Easy
 
 # Codility
