@@ -43,11 +43,13 @@ Solutions for coding practices and challenges.
 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) :lock: | [Python3](./LeetCode/624.Maximum_Distance_in_Arrays.py) | Easy
 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) :lock: | [Python3](./LeetCode/642.Design_Search_Autocomplete_System.py) | Hard
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Python3](./LeetCode/833.Find_And_Replace_in_String.py) | Medium
+702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) :lock: | [Python3](./LeetCode/702.Search_in_a_Sorted_Array_of_Unknown_Size.py) | Medium
 716 | [Max Stack](https://leetcode.com/problems/max-stack/) :lock: | [Python3](./LeetCode/716.Max_Stack.py) | Easy
 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](./LeetCode/904.Fruit_Into_Baskets.py) | Medium
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./LeetCode/929.Unique_Email_Addresses.py) | Easy
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Python3](./LeetCode/980.Unique_Paths_III.py) | Hard
+1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) :lock: | [Python3](./LeetCode/1427.Perform_String_Shifts.py) | Easy
 1480 | [Add Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](./LeetCode/1480.Add_Running_Sum_of_1d_Array.py) | Easy
 
 # Codility
