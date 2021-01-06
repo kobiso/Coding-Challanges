@@ -26,6 +26,7 @@ Solutions for coding practices and challenges.
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./LeetCode/121.Best_Time_to_Buy_and_Sell_Stock.py) | Easy
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [Python3](./LeetCode/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.py) | Medium
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./LeetCode/200.Number_of_Islands.py) | Medium
+232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python3](./LeetCode/232.Implement_Queue_using_Stacks.py) | Easy
 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) :lock: | [Python3](./LeetCode/247.Strobogrammatic_Number_2.py) | Easy
 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) :lock: | [Python3](./LeetCode/269.Alien_Dictionary.py) | Hard
@@ -35,6 +36,7 @@ Solutions for coding practices and challenges.
 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [Python3](./LeetCode/339.Nested_List_Weight_Sum.py) | Easy
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) :lock: | [Python3](./LeetCode/387.First_Unique_Character_in_a_String.py) | Easy
+406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python3](./LeetCode/406.Queue_Reconstruction_by_Height.py) | Medium
 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) :lock: | [Python3](./LeetCode/410.Split_Array_Largest_Sum.py) | Hard
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
 436 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) :lock: | [Python3](./LeetCode/436.Read_N_Characters_Given_Read4_II_Call_Multiple_Times.py) | Hard
