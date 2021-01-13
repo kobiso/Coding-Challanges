@@ -12,6 +12,7 @@ Solutions for coding practices and challenges.
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./LeetCode/5.Longest_Palindromic_Substring.py) | Medium
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](./LeetCode/11.Container_With_Most_Water.py) | Medium
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](./LeetCode/12.Integer_to_Roman.py) | Medium
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](./LeetCode/14.Longest_Common_Prefix.py) | Easy
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3](./LeetCode/15.3Sum.py) | Medium
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./LeetCode/17.Letter_Combinations_of_a_Phone_Number.py) | Medium
 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](./LeetCode/18.4Sum.py) | Medium
@@ -24,6 +25,7 @@ Solutions for coding practices and challenges.
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](./LeetCode/42.Trapping_Rain_Water.py) | Hard
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./LeetCode/46.Permutations.py) | Medium
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python3](./LeetCode/51.N-Queens.py) | Hard
+64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](./LeetCode/64.Minimum_Path_Sum.py) | Medium
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./LeetCode/121.Best_Time_to_Buy_and_Sell_Stock.py) | Easy
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [Python3](./LeetCode/159.Longest_Substring_with_At_Most_Two_Distinct_Characters.py) | Medium
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./LeetCode/200.Number_of_Islands.py) | Medium
