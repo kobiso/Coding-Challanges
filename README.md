@@ -34,11 +34,13 @@ Solutions for coding practices and challenges.
 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [Python3](./LeetCode/252.Meeting_Rooms.py) | Easy
 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) :lock: | [Python3](./LeetCode/269.Alien_Dictionary.py) | Hard
 272 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) :lock: | [Python3](./LeetCode/277.Find_the_Celebrity.py) | Medium
+279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](./LeetCode/279.Perfect_Squares.py) | Medium
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./LeetCode/283.Move_Zeroes.py) | Easy
 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python3](./LeetCode/307.Range_Sum_Query-Mutable.py) | Medium
 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [Python3](./LeetCode/339.Nested_List_Weight_Sum.py) | Easy
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) :lock: | [Python3](./LeetCode/387.First_Unique_Character_in_a_String.py) | Easy
+404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python3](./LeetCode/404.Sum_of_Left_Leaves.py) | Easy
 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python3](./LeetCode/406.Queue_Reconstruction_by_Height.py) | Medium
 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) :lock: | [Python3](./LeetCode/410.Split_Array_Largest_Sum.py) | Hard
 425 | [Word Squares](https://leetcode.com/problems/word-squares/) :lock: | [Python3](./LeetCode/425.Word_Squares.py) | Hard
