@@ -36,6 +36,7 @@ Solutions for coding practices and challenges.
 272 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) :lock: | [Python3](./LeetCode/277.Find_the_Celebrity.py) | Medium
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](./LeetCode/279.Perfect_Squares.py) | Medium
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./LeetCode/283.Move_Zeroes.py) | Easy
+290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](./LeetCode/290.Word_Pattern.py) | Easy
 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python3](./LeetCode/307.Range_Sum_Query-Mutable.py) | Medium
 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [Python3](./LeetCode/339.Nested_List_Weight_Sum.py) | Easy
 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) :lock: | [Python3](./LeetCode/359.Logger_Rate_Limiter.py) | Easy
