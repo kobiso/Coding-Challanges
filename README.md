@@ -56,6 +56,7 @@ Solutions for coding practices and challenges.
 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](./LeetCode/904.Fruit_Into_Baskets.py) | Medium
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./LeetCode/929.Unique_Email_Addresses.py) | Easy
 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python3](./LeetCode/949.Largest_Time_for_Given_Digits.py) | Easy
+953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python3](./LeetCode/953.Verifying_an_Alien_Dictionary.py) | Easy
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Python3](./LeetCode/980.Unique_Paths_III.py) | Hard
 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Python3](./LeetCode/1396.Design_Underground_System.py) | Medium
 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) :lock: | [Python3](./LeetCode/1427.Perform_String_Shifts.py) | Easy
